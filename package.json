@@ -1,0 +1,19 @@
+{
+  "name": "tonelabv2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artyom-027/toneLabv2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artyom-027/toneLabv2/issues"
+  },
+  "homepage": "https://github.com/artyom-027/toneLabv2#readme"
+}
